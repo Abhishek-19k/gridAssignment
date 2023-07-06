@@ -6,7 +6,7 @@ pip install -r requirements.txt
 if all these packages are installed then just type:
 uvicorn router:app --reload
 
-You well:
+You well see message like this:
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 INFO:     Started reloader process [8160] using StatReload
 INFO:     Started server process [15424]
