@@ -1,7 +1,7 @@
 # gridAssignment
 
 packages that need to be installed are:
-pip install fastapi sqlalchemy requests pydantic uvicorn
+pip install -r requirements.txt
 
 if all these packages are installed then just type:
 uvicorn router:app --reload
